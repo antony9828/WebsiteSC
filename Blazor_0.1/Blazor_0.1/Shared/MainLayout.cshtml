@@ -1,0 +1,29 @@
+@inherits BlazorLayoutComponent
+@inject Blazor_0._1.Localization.Localizator localizator
+
+<!--<div class="sidebar">
+    <NavMenu />
+</div>-->
+
+<div class="main">
+    <div class="top-row">
+        <span class="name">Situational Center</span>
+        <NavLink href="" class="top-row-item">@localizator.Current.Headers.HomeTitle</NavLink>
+        <NavLink href="settings" class="top-row-item">@localizator.Current.Headers.SettingsTitle</NavLink>
+        <span class="right">
+            <NavLink href="signup" class="top-row-item">@localizator.Current.Headers.SignUpTitle</NavLink>
+            <NavLink href="login" class="top-row-item">@localizator.Current.Headers.LoginTitle</NavLink>
+        </span>
+    </div>
+
+    <div class="content">
+        @Body
+    </div>
+</div>
+
+@functions {
+    protected override async Task OnInitAsync()
+    {
+        await localizator.Load("en-en");
+    }
+}
