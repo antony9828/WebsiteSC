@@ -1,4 +1,3 @@
-C:\Users\Anton Pushkin\.nuget\packages\cloudcrate.aspnetcore.blazor.browser.storage\0.2.2\lib\netstandard2.0\Cloudcrate.AspNetCore.Blazor.Browser.Storage.dll
 C:\Users\Anton Pushkin\.nuget\packages\microsoft.aspnetcore.blazor\0.4.0\lib\netstandard2.0\Microsoft.AspNetCore.Blazor.dll
 C:\Users\Anton Pushkin\.nuget\packages\microsoft.aspnetcore.blazor.browser\0.4.0\lib\netstandard2.0\Microsoft.AspNetCore.Blazor.Browser.dll
 C:\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.extensions.dependencyinjection\2.0.0\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll

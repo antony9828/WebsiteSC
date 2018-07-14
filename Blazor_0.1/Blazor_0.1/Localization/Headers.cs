@@ -11,5 +11,6 @@ namespace Blazor_0._1.Localization
         public string SettingsTitle { get; set; }
         public string SignUpTitle { get; set; }
         public string LoginTitle { get; set; }
+        public string ProfileTitle { get; set; }
     }
 }

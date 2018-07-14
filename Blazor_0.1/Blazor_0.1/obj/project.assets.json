@@ -579,11 +579,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VR AR Lab\\CC\\Blazor_0.1\\Blazor_0.1\\Blazor_0.1.csproj",
+      "projectUniqueName": "D:\\VR AR Lab\\CC\\WebsiteSC\\Blazor_0.1\\Blazor_0.1\\Blazor_0.1.csproj",
       "projectName": "Blazor_0.1",
-      "projectPath": "D:\\VR AR Lab\\CC\\Blazor_0.1\\Blazor_0.1\\Blazor_0.1.csproj",
+      "projectPath": "D:\\VR AR Lab\\CC\\WebsiteSC\\Blazor_0.1\\Blazor_0.1\\Blazor_0.1.csproj",
       "packagesPath": "C:\\Users\\Anton Pushkin\\.nuget\\packages\\",
-      "outputPath": "D:\\VR AR Lab\\CC\\Blazor_0.1\\Blazor_0.1\\obj\\",
+      "outputPath": "D:\\VR AR Lab\\CC\\WebsiteSC\\Blazor_0.1\\Blazor_0.1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

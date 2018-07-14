@@ -16,6 +16,7 @@
 
   <ItemGroup>
     <Watch Remove="Pages\Login.cshtml" />
+    <Watch Remove="Pages\Thanks.cshtml" />
   </ItemGroup>
 
   <ItemGroup>
@@ -27,6 +28,9 @@
       <Pack>$(IncludeRazorContentInPack)</Pack>
     </Content>
     <Content Update="Pages\Login.cshtml">
+      <Pack>$(IncludeRazorContentInPack)</Pack>
+    </Content>
+    <Content Update="Pages\Thanks.cshtml">
       <Pack>$(IncludeRazorContentInPack)</Pack>
     </Content>
     <Content Update="Pages\SignUp.cshtml">

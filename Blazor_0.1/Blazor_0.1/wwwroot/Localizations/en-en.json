@@ -3,6 +3,7 @@
     "HomeTitle": "Home",
     "SettingsTitle": "Settings",
     "SignUpTitle": "Sign Up",
-    "LoginTitle": "Login"
+    "LoginTitle": "Login",
+    "ProfileTitle": "Profile"
   }
 }
